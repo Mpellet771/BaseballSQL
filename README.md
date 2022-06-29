@@ -1,0 +1,2 @@
+# BaseballSQL
+SQL database schema 
